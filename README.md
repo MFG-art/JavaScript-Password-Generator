@@ -1,4 +1,7 @@
-# Mauricio's Random Password Generator
+# [Mauricio's Random Password Generator](https://mfg-art.github.io/JavaScript-Password-Generator/index.html)
+
+NOTE: The original commit history can be found in [this repo](https://github.com/MFG-art/MFG-art.github.io).
+The commits for this project begin [here](https://github.com/MFG-art/MFG-art.github.io/commit/60f04ff7a6de00b923c56057b1e86ab51f0d7899) and end [here](https://github.com/MFG-art/MFG-art.github.io/commit/11bda7a9e0042857b8f105faa4c3563ad2dac0db).
 
 ## Table of Contents
 
@@ -85,4 +88,4 @@ Once you have answered all prompts/confirms, you will see your password displaye
 
 ## Credits
 
-All credits go to Mauricio.
+Mauricio Fuentes Gomez
